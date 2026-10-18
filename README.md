@@ -60,10 +60,7 @@
 
 ### 🐍 Watch the snake eat my contributions
 
-<!-- Snake activates after adding .github/workflows/snake.yml — uncomment then:
 ![snake gif](https://github.com/nikhilbkadam/nikhilbkadam/blob/output/github-contribution-grid-snake.svg)
--->
-*🐍 Snake animation yahan aayegi — workflow add karne ke baad auto-start.*
 
 ### 📫 Let's Connect
 
