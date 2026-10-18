@@ -1,4 +1,8 @@
-<h1 align="center">Hi there, I'm Nikhil Kadam 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6a5cff,2E9EF7&height=160&section=header&animation=fadeIn" alt="header wave"/>
+
+<p align="center">
+  <img src="assets/banner.png" alt="Nikhil Kadam — Software Engineer" width="100%"/>
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Fresher+Software+Engineer;Open+Source+Contributor;Bug+Bounty+Hunter;Building+in+Public" alt="Typing SVG" /></a>
@@ -37,6 +41,18 @@
   <img src="https://streak-stats.demolab.com?user=nikhilbkadam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilbkadam&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhilbkadam&theme=tokyonight&no-frame=true&row=1&margin-w=15" alt="Trophies" />
+</p>
+
 ### 🐍 Watch the snake eat my contributions
 
 ![snake gif](https://github.com/nikhilbkadam/nikhilbkadam/blob/output/github-contribution-grid-snake.svg)
@@ -49,3 +65,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikhilbkadam&color=2E9EF7&style=flat" alt="Profile views" />
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6a5cff,2E9EF7&height=120&section=footer&animation=fadeIn" alt="footer wave"/>
