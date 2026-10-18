@@ -65,13 +65,6 @@
 -->
 *🐍 Snake animation yahan aayegi — workflow add karne ke baad auto-start.*
 
-### 🎮 Play Snake
-
-<p align="center">
-  <a href="https://muse.ai/s/snake-game-xne6xkxjxcdxldxjxr"><img src="https://img.shields.io/badge/PLAY_SNAKE-6DB33F?style=for-the-badge" alt="Play Snake" /></a>
-</p>
-<p align="center"><i>Bored? Play a quick game of Snake right from my profile! 🐍</i></p>
-
 ### 📫 Let's Connect
 
 <p align="center">
