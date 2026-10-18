@@ -10,6 +10,10 @@
 
 <p align="center">B.E. Computer Science student from Nashik, India — turning coffee into code and bugs into bounties. 🐛💰</p>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,javascript,java,aws,git,github&theme=dark" alt="Tech icons" />
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -61,6 +65,12 @@
 ### 🐍 Watch the snake eat my contributions
 
 ![snake gif](https://github.com/nikhilbkadam/nikhilbkadam/blob/output/github-contribution-grid-snake.svg)
+
+### 🏔️ 3D Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/nikhilbkadam/nikhilbkadam/blob/3d-output/profile-3d-contrib/profile-night-view.svg" alt="3D Contributions" width="100%"/>
+</p>
 
 ### 📫 Let's Connect
 
