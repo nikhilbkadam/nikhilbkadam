@@ -41,21 +41,24 @@
   <img src="https://streak-stats.demolab.com?user=nikhilbkadam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### 📈 Contribution Activity
+### 💡 Random Dev Quote
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilbkadam&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
-### 🏆 GitHub Trophies
+### 😄 Random Dev Joke
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilbkadam&theme=tokyonight&no-frame=true&row=1&margin-w=15" alt="Trophies" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Dev Joke" />
 </p>
 
 ### 🐍 Watch the snake eat my contributions
 
+<!-- Snake activates after adding .github/workflows/snake.yml — uncomment then:
 ![snake gif](https://github.com/nikhilbkadam/nikhilbkadam/blob/output/github-contribution-grid-snake.svg)
+-->
+*🐍 Snake animation yahan aayegi — workflow add karne ke baad auto-start.*
 
 ### 📫 Let's Connect
 
