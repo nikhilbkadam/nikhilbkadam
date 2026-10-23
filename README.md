@@ -16,49 +16,14 @@
 
 ---
 
-## About
+### 🚀 About Me
 
-Aspiring Software Engineer | Java Developer | Full-Stack Development
-
-I'm a 3rd-year B.E. Computer Engineering student at Sandip Institute of Technology & Research Centre, Nashik, passionate about building practical software solutions and growing as a Java-focused Software Engineer.
-
-**Technical Skills**
-- **Programming:** Java, Python, JavaScript
-- **Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA)
-- **Backend & APIs:** Node.js, REST APIs, Spring Boot (currently learning)
-- **Frontend:** React
-- **Databases:** SQL, Redis
-- **Cloud & Tools:** AWS, Azure, Firebase, Git
-
-**Projects & Experience**
-
-Since September 2025, I've been building ParentGuard, an initiative that has helped me develop hands-on experience in product thinking, software development, ownership, and execution.
-
-I've also worked on ParentGuard and NewMicro, exploring technologies such as Java, Kotlin, AWS, Azure, Railway, Firebase, and Redis. These projects have strengthened my understanding of application development, backend services, cloud technologies, and real-world problem-solving.
-
-**Learning & Development**
-
-- Code in Place 2025 — Stanford's introductory Python programming programme
-- GeeksforGeeks 160 Days of DSA journey
-- Google Cloud Skills Boost Arcade 2026
-- Currently strengthening my Java fundamentals, DSA, and Spring Boot skills
-
-**Leadership & Community**
-
-- Campus Ambassador, E-Cell IIT Kanpur (2025–26)
-- College Leader, Mood Indigo, IIT Bombay
-
-Beyond coding, I enjoy connecting with fellow developers, contributing to student communities, sharing knowledge, and exploring opportunities to learn from experienced engineers.
-
-**Career Goals**
-
-I'm actively seeking Software Engineer, Java Developer, Backend Developer, and Software Development Engineer (SDE) internship or entry-level opportunities.
-
-Preferred locations: Nashik, Pune, Mumbai, Navi Mumbai, and Remote (India). I'm also open to international opportunities where eligible work authorization or visa sponsorship is available.
-
-I'm always happy to connect with developers, recruiters, mentors, and technology enthusiasts. Let's connect and build something meaningful!
-
-#Java #SoftwareEngineering #DSA #SpringBoot #OpenToWork
+- 🎓 B.E. Computer Science @ Sandip Institute of Technology & Research Centre
+- 💼 Founder of an e-commerce initiative *(Sept 2025 – present)*
+- 🌱 Campus Ambassador @ E-Cell, IIT Kanpur
+- 🎭 College Leader @ Mood Indigo, IIT Bombay
+- 💻 Code in Place 2025 (Stanford)
+- 🎯 Right now: hunting open-source bug bounties and shipping fixes daily
 
 ### 🛠️ Tech Stack
 
@@ -74,6 +39,16 @@ I'm always happy to connect with developers, recruiters, mentors, and technology
 ### 🌱 Currently Learning
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilbkadam&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilbkadam&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nikhilbkadam&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ### 💡 Random Dev Quote
 
